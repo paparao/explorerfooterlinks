@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Organization",
+    "links": [
+      {
+        "text": "Validators",
+        "url": "https://www.gnosis.io/validators"
+      },
+      {
+        "text": "Developers",
+        "url": "https://www.gnosis.io/developers"
+      },
+      {
+        "text": "Community",
+        "url": "https://www.gnosis.io/community"
+      },
+      {
+        "text": "Blog",
+        "url": "https://www.gnosis.io/blog"
+      },
+      {
+        "text": "Careers",
+        "url": "https://www.gnosis.io/careers"
+      },
+      {
+        "text": "About",
+        "url": "https://www.gnosis.io/about"
+      }
+    ]
+  }
+]
